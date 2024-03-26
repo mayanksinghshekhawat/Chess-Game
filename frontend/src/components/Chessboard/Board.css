@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  p{
+    /* padding: 10px; */
+  }
+  .app{
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    /* margin-left: 28%; */
+    top: 0;
+    width: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* height:20%; */
+  }
+  h3{
+    /* padding-bottom: 10px; */
+  }
+  .main{
+    top:0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .main5{
+    display: flex;
+    flex-direction: column;
+    height:59%;
+    align-items: center;
+    justify-content: space-between;
+  }
